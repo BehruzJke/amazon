@@ -1,4 +1,4 @@
-# Test automation framework for onliner.by
+# Test automation framework for Amazon app store
 
 ## Project overview
 
